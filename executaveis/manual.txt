@@ -1,0 +1,5 @@
+apresentação_final.pkt
+-refere-se a um mapa que apresenta a topologia do projeto. Arquivo executável no Packet tracer
+
+trabalho final.xml
+-refere-se ao escaneamento feito no Nmap que mostra vulnerabilidades na máquina virtual das imagens
